@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belajar wpf", "belajar wpf\belajar wpf.csproj", "{ADAE99BD-EF16-413A-87FD-4A08C429119E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADAE99BD-EF16-413A-87FD-4A08C429119E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAE99BD-EF16-413A-87FD-4A08C429119E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAE99BD-EF16-413A-87FD-4A08C429119E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAE99BD-EF16-413A-87FD-4A08C429119E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838C3736-2A55-4CA5-9B50-B158E1D56A1B}
+	EndGlobalSection
+EndGlobal
