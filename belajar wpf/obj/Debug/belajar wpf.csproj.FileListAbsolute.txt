@@ -12,3 +12,35 @@ D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\belajar wpf.exe
 D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\belajar wpf.pdb
 D:\Coding VSC19\belajar wpf\belajar wpf\obj\Debug\belajar wpf.exe
 D:\Coding VSC19\belajar wpf\belajar wpf\obj\Debug\belajar wpf.pdb
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\EntityFramework.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\EntityFramework.SqlServer.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\EntityFramework.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\EntityFramework.SqlServer.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\obj\Debug\belajar wpf.csproj.CopyComplete
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\BouncyCastle.Crypto.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\Google.Protobuf.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\K4os.Compression.LZ4.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\K4os.Hash.xxHash.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\MySql.Data.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\Renci.SshNet.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\System.Buffers.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\System.Memory.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\System.Numerics.Vectors.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\Ubiety.Dns.Core.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\Zstandard.Net.dll
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\Google.Protobuf.pdb
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\Google.Protobuf.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\K4os.Compression.LZ4.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\K4os.Hash.xxHash.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\MySql.Data.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\Renci.SshNet.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\System.Buffers.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\System.Memory.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\System.Numerics.Vectors.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Coding VSC19\belajar wpf\belajar wpf\obj\Debug\belajar_wpf.Migrations.beas.resources

@@ -132,7 +132,7 @@ namespace LatihanMVVM
 
         public void Execute(object parameter)
         {
-            using (var db = new LatihanContext())
+            using (var db = new wpfcontext())
             {
                 db.Database.Log = Console.Write;
                 db.DaftarItemPenjualan.Add(viewModel.Model);

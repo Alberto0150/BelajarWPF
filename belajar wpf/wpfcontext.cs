@@ -1,8 +1,10 @@
 ﻿using System.Data.Entity;
+using MySql.Data.EntityFramework;
 
 namespace LatihanMVVM
 {
-    class LatihanContext : DbContext
+    [DbConfigurationType(typeof(MySqlEFConfiguration))]
+    class wpfcontext : DbContext
     {
         public DbSet<ItemPenjualan> DaftarItemPenjualan { get; set; }
     }
